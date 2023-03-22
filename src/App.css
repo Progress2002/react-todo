@@ -1,11 +1,11 @@
-* {
+*{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: sans-serif;
 }
 
-.body {
+.body{
   background-color: rgb(226, 216, 216);
   width: 500px;
   padding: 40px;
